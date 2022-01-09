@@ -1,0 +1,7 @@
+Blade template
+Admin Paneli
+Ürün İşlemleri
+	Ürün ekleme
+	Kategori Ekle
+	Etiket Ekle
+
